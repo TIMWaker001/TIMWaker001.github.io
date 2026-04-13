@@ -1,0 +1,13 @@
+# Site settings
+title: 你的博客标题 # 例如：John's Tech Blog
+email: your-email@example.com # 你的邮箱
+description: >- # 博客描述
+  这是我的个人技术博客，分享编程心得和生活感悟。
+baseurl: "" # leave this empty unless you're using a custom subpath
+url: "https://yourusername.github.io" # 通常是你的 GitHub Pages 地址
+
+# Build settings
+markdown: kramdown
+theme: minima # 选择一个主题
+plugins:
+- jekyll-feed
