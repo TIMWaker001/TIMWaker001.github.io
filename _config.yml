@@ -12,5 +12,4 @@ theme: minima # 选择一个主题
 plugins:
 - jekyll-feed
 
-# Show excerpts on the homepage
-show_excerpts: true
+
