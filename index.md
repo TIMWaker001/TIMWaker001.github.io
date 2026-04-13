@@ -1,6 +1,6 @@
 ---
 layout: page # 使用 page 布局而不是 home
-title: 欢迎来到我的博客！
+title: 记录工作生活感悟
 ---
 
 
