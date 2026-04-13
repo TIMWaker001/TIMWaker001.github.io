@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 个人简介"
+title: 个人简介
 date: 2026-4-12 12:00:00 +0800
 categories: jekyll update
 ---
 
-# 本人简介
 
 教育背景：
 
